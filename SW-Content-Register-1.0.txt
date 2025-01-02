@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package:                   an-mcxn947-mdio-slave-interface-by-SmartDMA
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This demo mainly introduces using smartmda to implement camera interface for MCXN series MCU.
+Release Location:          https://github.com/nxp-appcodehub/an-mcxn947-mdio-slave-interface-by-SmartDMA
+Origin:                    NXP (BSD-3-Clause)
+                           cmsis - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+                           

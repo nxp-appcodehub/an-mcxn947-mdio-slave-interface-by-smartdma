@@ -1,0 +1,27 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" type="app_note" format="projectfile" versionSchema="1.0.0" name="mcxn947-mdio-slave-interface-by-smartdma" uuid="9607ace5-4805-4854-a34a-846d9bbc2257">
+    <display_title>
+        How to use SmartMDA to implement MDIO slave interface on MCX MCU
+    </display_title>
+    <overview>
+        <![CDATA[This software accompanies the application note primarily introduces how to implement MDIOI slave interface functionality using SmartDMA.<br>]]>
+    </overview>
+    <toolchains>
+        <toolchain name="iar"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="ethernet"></peripheral>
+        <peripheral name="gpio"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="hmi"></category>
+        <category name="industrial"></category>
+        <category name="networking"></category>
+        <category name="ui"></category>
+    </categories>
+</data:item>
